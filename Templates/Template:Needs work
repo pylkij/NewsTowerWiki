@@ -1,0 +1,11 @@
+<noinclude>
+This is the "Needs work" template. You can pass to it the field "Problem".
+
+The correct syntax is:
+
+{{Needs work|Problem=Incorrect information}}
+</noinclude>
+
+<includeonly>
+<div style="border: 1px solid black;">This page needs work, for the following reasons(s): {{{Problem|}}}.</div>
+</includeonly>
