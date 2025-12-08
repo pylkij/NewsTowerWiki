@@ -1,0 +1,48 @@
+This page contains some guidelines and recommendations for wiki editors. In addition, helpful templates can be found here.
+
+==[[https://en.wikipedia.org/wiki/Wikipedia:Five_pillars#Wikipedia_has_no_firm_rules The Five Pillars]==
+The fundamental principles of any wiki may be summarized in five pillars:
+*The wiki is an encyclopedia. Not a soapbox, an advertising platform, nor a social network.
+*The wiki is written from a neutral point of view.
+*The wiki's content is free for anyone to use, edit, and distribute.
+*Editors should treat each other with respect and civility.
+*The wiki has no firm rules: only policies and guidelines.
+
+==[[News Tower Wiki:Code of Conduct]]==
+All users, editors, and administrators are expected to abide by the CoC. Failure to do so will result in a warning. Failure to abide by a warning may result in a temporary suspension or permanent ban.
+
+==Article Strucutre==
+Most articles will follow a similar strucutre: a few sentences to describe the object, location, skill etc. This brief description will follow the in game description. Further detail is added in later sections. The end of the article will often feature an appropriate navbox that links to articles of similar content.
+
+==Article Editing==
+* The wiki's objective is to provide factual and objective information. Do not editorialize and/or include subjective opinions. Even subjective evaluations supported by the majority should be avoided except:
+* Subjective opinions may be placed in a "Tips and strategies" section near the end of the article.
+* Guides are an exception to this rule, and will be approraiately identified with the inclusion of "Guide" in the title.
+*Use in-game terms and phrases for the naming of articles.
+*See the [[Style Guide]] for a more detailed description of article formatting and styling.
+
+==Places to contribute==
+* All articles in [[Category:Potentially outdated]] need to be verified for any changes and the version template updated.
+* All articles in [[Category:Stub]] need elaboration or cleaned up per the wiki's [[Style Guide]].
+
+==Joining the team==
+If you wish to join the editing team and contribute to the News Tower Wiki, please contact someone on the existing editing team on the News Tower Discord and request to join.
+
+==Templates==
+[[Template:Furniture]]
+[[Template:Skill]]
+[[Template:Infobox]]
+
+==Spoilers==
+All wikis contain spoilers by their nature. Policy is to leave spoilers unmarked.
+
+==Other useful information==
+* [https://support.wiki.gg/wiki/Getting_started]
+* [https://www.mediawiki.org/wiki/Help:Formatting]
+* [https://www.mediawiki.org/wiki/Help:Links]
+
+==What not to do==
+* Do not editorialize and/or include subjective opinions. Reasoned, subjective opinions are to remain in the relevant section.
+* Do not mass-edit articles. Make sure an edit works and then apply it to other articles. All articles should follow their most relevant template.
+* Do not create a Category page to provide general information about a topic. Because of how the wiki search works, these pages will only show up if "Category" is included in the search first. Instead, create or edit a normal article page (a "Paintings" page instead of a "Category:Paintings" page). Ensure that the article does include a link to its respective category page.
+* Do not use excessive bolding or italicizing when writing text content, as it can make an article difficult to read. If in doubt, don't.

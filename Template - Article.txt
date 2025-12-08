@@ -1,0 +1,28 @@
+{{Example_Infobox_1
+|title=
+|image=
+|caption=
+
+|Cost=
+|Requires power=
+|Durability=
+|Gives noise=
+|Gives heat=
+|Gives smell=
+|Production time=12 hours
+
+|Location=
+|Influence Points=
+}}
+
+==Overview==
+This is where you describe what the item does. Include links to other information that reader might find interesting using in line links.
+
+==Availability==
+This is where you say where the item is available on the map and what the requirements for unlocking it are. This can be [[Influence Point]s cost and a list of pre-requisits.
+
+==Tips and strategies==
+This is where subjective - but still neutral - analysis of the item can go. Maybe suggest a way in which the item is best used or placed.
+
+==Changelog==
+If an item changes between patches, it is a good idea to make a note of it here and say what the change was.

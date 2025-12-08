@@ -1,0 +1,19 @@
+<includeonly>{{#invoke:Infobox|main
+|kind=reporting
+|sep=,
+|image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
+|sections=General Info, Unlock
+|General Info=Cost
+|Stats=Location, Influence Points
+}}</includeonly><noinclude>{{documentation}}</noinclude>
+
+{{Reporting_Infobox_1
+|title=
+|image=
+|caption=
+
+|Cost=
+
+|Location=
+|Influence Points=
+}}

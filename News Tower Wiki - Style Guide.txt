@@ -1,0 +1,34 @@
+==General page styling==
+* All article and section titles must use [https://en.wikipedia.org/wiki/Letter_case#Sentence_case sentence casing]. For example: "This is the title of an article" instead of "This is the Title of an Article".
+This page contains a general guide for wiki editiors regarding article styling. Consistency between editiors is key to maintaining a coherent user experience across multiple platforms.
+
+==General==
+*All article and sections titles should use sentence casing. For example: "This is a really long title" instead of "This is a Really Long Title"
+** Sentence casing helps distinguish common nouns from proper nouns.
+** Capitalization rules for proper nouns still apply.
+* Use the singular form rather than the plural form for article title names. For example: [[Painting]] instead of Paintings.
+**This makes article links much easier in most cases. For example: [[Painting]]s</nowiki> instead of [[Paintings|Painting]]</nowiki>.
+** However, if a proper noun is most commonly referred to using its plural form, then it can be allowed.
+**Category names are generally plural. For example: [[Category:Paintings]] instead of Category:Painting.
+* Avoid the use of bolding and italicizing. If in doubt, don't.
+* The [https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style Wikipedia's Manual of Style] is an excellent resource if something isn't covered by this wiki's style guide.
+** Consistent formating between articles makes maintainance and group contributions much easier.
+
+==Infoboxes==
+* Many articles benifit from the inclusion of a [[Template:Infobox]]
+* An infobox is to summarize, but not supplant, the key facts that appear in an article.
+** An article should remain content complete with its infobox ignored.
+** Avoid links to sections within the article; the table of contents provides this fucntion.
+* General consistency should be aimed for across articles by using the same infobox.
+** Avoid adding extra style formatting or additional information not found in the default infobox.
+* If an asset image is available, it should be included in the infobox.
+
+==Tables==
+* Tables are a way of presenting information in rows and colums. Tables can be useful for certain types of content, but they should only be used when appropriate. In many cases, the information might be better conveyed using prose or lists.
+** Overuse of tables, especially structurally complex ones, can makes parges harder to edit and maintain.
+* Maintain accessiblility when creating tables to help users navigate the data. Avoid relying on formating (e.g. background colour changes) to convey meaning.
+** Do not refer to tables as being positioned on the left or right side of a page. Content placement varies greatly across devices.
+* Use wikitables instead of HTML tables, as they are easier to customize and maintain.
+
+==Language==
+* There is no current plan to expand support into other language, but that is not permanent decision.
