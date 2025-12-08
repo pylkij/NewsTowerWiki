@@ -11,13 +11,13 @@ The fundamental principles of any wiki may be summarized in five pillars:
 ==[[News Tower Wiki:Code of Conduct]]==
 All users, editors, and administrators are expected to abide by the CoC. Failure to do so will result in a warning. Failure to abide by a warning may result in a temporary suspension or permanent ban.
 
-==Article Strucutre==
-Most articles will follow a similar strucutre: a few sentences to describe the object, location, skill etc. This brief description will follow the in game description. Further detail is added in later sections. The end of the article will often feature an appropriate navbox that links to articles of similar content.
+==Article Structure==
+Most articles will follow a similar structure: a few sentences to describe the object, location, skill etc. This brief description will follow the in game description. Further detail is added in later sections. The end of the article will often feature an appropriate navbox that links to articles of similar content.
 
 ==Article Editing==
 * The wiki's objective is to provide factual and objective information. Do not editorialize and/or include subjective opinions. Even subjective evaluations supported by the majority should be avoided except:
 * Subjective opinions may be placed in a "Tips and strategies" section near the end of the article.
-* Guides are an exception to this rule, and will be approraiately identified with the inclusion of "Guide" in the title.
+* Guides are an exception to this rule, and will be appropriately identified with the inclusion of "Guide" in the title.
 *Use in-game terms and phrases for the naming of articles.
 *See the [[Style Guide]] for a more detailed description of article formatting and styling.
 
