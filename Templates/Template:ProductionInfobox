@@ -5,21 +5,5 @@
 |sections=General Info, Unlock
 |General Info=Cost, Requires power, Durability, Gives noise, Gives heat, Gives smell, Production time
 |Stats=Location, Influence Points
-}}</includeonly><noinclude>{{documentation}}</noinclude>
-
-{{Production_Infobox_1
-|title=
-|image=
-|caption=
-
-|Cost=
-|Requires power=
-|Durability=
-|Gives noise=
-|Gives heat=
-|Gives smell=
-|Production time=
-
-|Location=
-|Influence Points=
-}}
+}}</includeonly>
+<noinclude>{{documentation}}</noinclude>
