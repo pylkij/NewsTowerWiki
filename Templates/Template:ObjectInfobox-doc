@@ -25,7 +25,7 @@ This is an infobox to add to any article about an object. Objects include: stati
 <code><nowiki>
 {{ObjectInfobox
 |title=Sample
-|image=test.png
+|image=[[test.png]]
 |caption=an infobox for an object
 
 |Cost=$500
@@ -44,7 +44,7 @@ This is an infobox to add to any article about an object. Objects include: stati
 results in:
 {{ObjectInfobox
 |title=Sample
-|image=test.png
+|image=[[test.png]]
 |caption=an infobox for an object
 
 |Cost=$500
