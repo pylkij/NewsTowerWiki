@@ -1,0 +1,31 @@
+==Description==
+This template is used to add a generic infobox to an article.
+
+==Syntax==
+Include the below code block at the begining of the article:
+<code>
+{{Example Infobox_1
+|title=
+|image=
+|caption=
+}}
+</code>
+
+==Samples==
+<code><nowiki>
+{{Example Infobox_1
+|title=Example infobox
+|image=test.png
+|caption=an example infobox
+}}
+</nowiki></code>
+
+results in:
+
+{{Example Infobox_1
+|title=Example infobox
+|image=test.png
+|caption=an example infobox
+}}
+
+<includeonly>[[Category:Infoboxes</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
