@@ -1,0 +1,15 @@
+<includeonly>{{#invoke:Infobox|main
+|kind=
+|sep=,
+|image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
+|sections=
+|General Info=
+|Stats=
+}}</includeonly><noinclude>{{documentation}}</noinclude>
+
+{{Example Infobox_1
+|title=
+|image=
+|caption=
+}}
+
