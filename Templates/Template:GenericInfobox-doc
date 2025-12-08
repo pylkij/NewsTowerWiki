@@ -3,13 +3,13 @@ This template is used to add a generic infobox to an article.
 
 ==Syntax==
 Include the below code block at the begining of the article:
-<code>
+<code><nowiki>
 {{Example Infobox_1
 |title=
 |image=
 |caption=
 }}
-</code>
+</nowiki></code>
 
 ==Samples==
 <code><nowiki>
