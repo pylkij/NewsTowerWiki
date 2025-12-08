@@ -13,7 +13,7 @@ This is the "Needs work" template. You can pass to it the field "Problem".
 <noinclude>
 {{Needs work|Problem=Incorrect information}}
 </noinclude>
-</code>
+</nowiki></code>
 
 results in:
 
