@@ -2,11 +2,11 @@
 This is the "Needs work" template. You can pass to it the field "Problem".
 
 ==Syntax==
-<code>
+<code><nowiki>
 <noinclude>
 {{Needs work|Problem=Some problem here}}
 </noinclude>
-</code>
+</nowiki></code>
 
 ==Samples==
 <code><nowiki>
