@@ -15,7 +15,7 @@ Include the below code block at the begining of the article:
 <code><nowiki>
 {{Example Infobox_1
 |title=Example infobox
-|image=test.png
+|image=[[test.png]]
 |caption=an example infobox
 }}
 </nowiki></code>
@@ -24,7 +24,7 @@ results in:
 
 {{Example Infobox_1
 |title=Example infobox
-|image=test.png
+|image=[[test.png]]
 |caption=an example infobox
 }}
 
