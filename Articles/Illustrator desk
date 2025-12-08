@@ -1,9 +1,15 @@
-{{Reporting_Infobox_1
+{{ObjectInfobox
 |title=Illustrator desk
-|image=Illustrator_Desk.png
+|image=[[Illustrator_Desk.png]]
 |caption=creates draft graphics
 
 |Cost=$500
+|Requires power=No
+|Durability=No
+|Gives noise=No
+|Gives heat=No
+|Gives smell=No
+|Production time=Variable
 
 |Location=[[Photo Academy]]
 |Influence Points=16
@@ -18,3 +24,4 @@ The Illustrator desk is available at the [[Photo Academy]], located in [[Brookly
 ==Tips and strategies==
 
 ==Changelog==
+
