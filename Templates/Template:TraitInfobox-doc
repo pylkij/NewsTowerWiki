@@ -3,7 +3,7 @@ This is an infobox to add to any article about a trait.
 
 ==Syntatx==
 <code><nowiki>
-{{ObjectInfobox
+{{TraitInfobox
 |title=
 |image=
 |caption=
@@ -16,7 +16,7 @@ This is an infobox to add to any article about a trait.
 
 ==Samples==
 <code><nowiki>
-{{ObjectInfobox
+{{TraitInfobox
 |title=Line Worker
 |image=[[lineworker.png]]
 |caption=25% faster production if the next item arrives within 2 hours of the previous one
@@ -28,7 +28,7 @@ This is an infobox to add to any article about a trait.
 </nowiki></code>
 
 results in:
-{{ObjectInfobox
+{{TraitInfobox
 |title=Line Worker
 |image=[[lineworker.png]]
 |caption=25% faster production if the next item arrives within 2 hours of the previous one
