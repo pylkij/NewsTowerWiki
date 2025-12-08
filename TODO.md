@@ -8,7 +8,7 @@ This is the current todo list for the News Tower Wiki.
 - [ ] Article:Trait
 - [ ] Article:Mechanic
 - [x] Navbox:Object
-- [ ] Navbox:Trait
+- [x] Navbox:Trait
 - [ ] Nabox:Mechanic
 - [x] Infobox:Object
 - [x] Infobox:Trait
