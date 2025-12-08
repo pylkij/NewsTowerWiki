@@ -3,10 +3,6 @@
 |sep=,
 |image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
 |sections=
-}}</includeonly><noinclude>{{documentation}}</noinclude>
-
-{{Example Infobox_1
-|title=
-|image=
-|caption=
-}}
+}}</includeonly>
+<noinclude>
+{{documentation}}</noinclude>
