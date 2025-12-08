@@ -1,0 +1,8 @@
+<includeonly>{{#invoke:Infobox|main
+|kind=skill
+|sep=,
+|image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
+|sections=Info
+|General Info=Tier, Trainable, Cost
+}}</includeonly>
+<noinclude>{{documentation}}</noinclude>
