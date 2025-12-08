@@ -1,5 +1,5 @@
 <includeonly>{{#invoke:Infobox|main
-|kind=production
+|kind=object
 |sep=,
 |image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
 |sections=General Info, Unlock
@@ -7,3 +7,4 @@
 |Stats=Location, Influence Points
 }}</includeonly>
 <noinclude>{{documentation}}</noinclude>
+
