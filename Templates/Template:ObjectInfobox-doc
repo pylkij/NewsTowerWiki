@@ -1,1 +1,62 @@
+==Description==
+This is an infobox to add to any article about an object. Objects include: stations, decorative items, structural items etc.
 
+==Syntatx==
+<code><nowiki>
+{{ObjectInfobox
+|title=
+|image=
+|caption=
+
+|Cost=
+|Requires power=
+|Durability=
+|Gives noise=
+|Gives heat=
+|Gives smell=
+|Production time=
+
+|Location=
+|Influence Points=
+}}
+</nowiki></code>
+
+==Samples==
+<code><nowiki>
+{{ObjectInfobox
+|title=Sample
+|image=test.png
+|caption=an infobox for an object
+
+|Cost=$500
+|Requires power=1
+|Durability=Yes
+|Gives noise=Yes
+|Gives heat=Yes
+|Gives smell=No
+|Production time=12 hours
+
+|Location=[[Some location]]
+|Influence Points=12
+}}
+</nowiki></code>
+
+results in:
+{{ObjectInfobox
+|title=Sample
+|image=test.png
+|caption=an infobox for an object
+
+|Cost=$500
+|Requires power=1
+|Durability=Yes
+|Gives noise=Yes
+|Gives heat=Yes
+|Gives smell=No
+|Production time=12 hours
+
+|Location=[[Some location]]
+|Influence Points=12
+}}
+
+<includeonly>[[Category:Infoboxes]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
