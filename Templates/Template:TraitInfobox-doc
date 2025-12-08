@@ -1,0 +1,41 @@
+==Description==
+This is an infobox to add to any article about a trait.
+
+==Syntatx==
+<code><nowiki>
+{{ObjectInfobox
+|title=
+|image=
+|caption=
+
+|Tier=
+|Trainable=
+|Cost=
+}}
+</nowiki></code>
+
+==Samples==
+<code><nowiki>
+{{ObjectInfobox
+|title=Line Worker
+|image=[[lineworker.png]]
+|caption=25% faster production if the next item arrives within 2 hours of the previous one
+
+|Tier=2
+|Trainable=Yes
+|Cost=$5000
+}}
+</nowiki></code>
+
+results in:
+{{ObjectInfobox
+|title=Line Worker
+|image=[[lineworker.png]]
+|caption=25% faster production if the next item arrives within 2 hours of the previous one
+
+|Tier=2
+|Trainable=Yes
+|Cost=$5000
+}}
+
+<includeonly>[[Category:Infoboxes]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
