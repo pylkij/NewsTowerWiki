@@ -1,4 +1,4 @@
-Disagreements happen. Editors will sometimes disagree with each other over content decsisions. Editors are expected to engage in good faith to resolve their disputes, and must not personalise the issue. Many disputes can be resolved without external input, through discussion and attempt to understand the objections of others.
+Disagreements happen. Editors will sometimes disagree with each other over content decisions. Editors are expected to engage in good faith to resolve their disputes, and must not personalise the issue. Many disputes can be resolved without external input, through discussion and attempt to understand the objections of others.
 
 If discussion stalemates, editors may seek outside input to help resolve the dispute. Disputes over content have multiple venues: talk pages and the News Tower Discord #wiki channel. Processes for resolving disputes with outside help include: asking for a third opinion, seeking help from a mediator, or opening a request for comment.
 
@@ -18,13 +18,13 @@ Talking with others is a critical part of writing any wiki. Discussing heatedly,
 Focus on article content during discussions, and not on editor conduct. Focusing on content can be difficult, especially when others are being uncivil or stubborn. It is never to your benefit to respond in kind. When it becomes too difficult to maintain a civil discussion, please consider elevating the dispute resolution process.
 
 ===Disengage===
-Most situations are not urgent. At all stages, taking a break can help de-escalate a dispute. You can always return to a discussion later. You may also consider leaving a discussion altogether. There are always articles that need work. Consider focusing your time and attention toward a differnt one where you can more easily make constructive edits.
+Most situations are not urgent. At all stages, taking a break can help de-escalate a dispute. You can always return to a discussion later. You may also consider leaving a discussion altogether. There are always articles that need work. Consider focusing your time and attention toward a different one where you can more easily make constructive edits.
 
 ==Elevating disputes==
 If you cannot resolve the dispute through discussion, you may request participation from interested editors uninvolved in the discussion. Keep in mind, participation in dispute resolution is voluntary. 
 
 ===Article talk page===
-Most conent dispute discussions should start at the artcile's talk page. This is a good place to talk about the issues and get the opinions of others.
+Most content dispute discussions should start at the article's talk page. This is a good place to talk about the issues and get the opinions of others.
 
 ===Requests for comment===
 Requests for comment can be posted to the News Tower Discord #wiki channel. This is a good way to get community wide input on article content.
@@ -36,7 +36,7 @@ A good option for small disputes involving only two editors.
 A request can be made for mediation between parties. Mediation is non-binding, and intends to find a compromise between parties. A mediator will be appointed who is uninvolved in the original dispute.
 
 ===Arbitration===
-If you have taken all other reasonable steps to resolve a dispute, and the dispute is not over content, then you can request an admin's involvement. If the issue is decided by arbitration, you will be expected to abide by the the result.
+If you have taken all other reasonable steps to resolve a dispute, and the dispute is not over content, then you can request an admin's involvement. If the issue is decided by arbitration, you will be expected to abide by the result.
 
 ===Disputes with administrators===
 Administrators are human too. While they are expected to be held to a higher standard of conduct and act as role models, sometimes mistakes are made. If you have an issue regarding an administrator, you can request that an uninvolved administrator review the issue.
@@ -47,7 +47,7 @@ Some situations are urgent. In the case of such an issue, please contact an admi
 *Vandalism of an article
 *Blatantly inappropriate usernames
 *Sockpuppetry
-*Urgent violations cvility
+*Urgent violations civility
 *Edit warring
 
 ==Words of caution==
