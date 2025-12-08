@@ -25,7 +25,7 @@ If someone challenges your edits, discuss it with them and seek a compromise, or
 Improve pages where you can. Do not worry about imperfection. Explain all major changes.
 
 ===Harassment===
-Do not make threats, nitpick good-faith edits, make reapeated annoying and unwanted contacts, personal attacks, or post any personal information (doxing).
+Do not make threats, nitpick good-faith edits, make repeated annoying and unwanted contacts, personal attacks, or post any personal information (doxing).
 
 ===No personal attacks===
 Do not make personal attacks anywhere. Comment on the content, not on the editor.
@@ -46,7 +46,7 @@ Vandalism is any addition, deletion, or change of content made in a deliberate a
 Everyone is human, nobody is perfect. However, sometimes actions must be taken against individuals who do not abide by the CoC
 
 ===Warnings===
-Warnings will be given to any first time breach of the CoC, and in issues of minor infringement. Warnings are not threats, do not reflect upon the warned individual as a person, nor should result in any embarassment. Warnings are meant as a correction, and a reminder to everyone that this is a collaborative effort.
+Warnings will be given to any first time breach of the CoC, and in issues of minor infringement. Warnings are not threats, do not reflect upon the warned individual as a person, nor should result in any embarrassment. Warnings are meant as a correction, and a reminder to everyone that this is a collaborative effort.
 
 ===Suspensions===
 Disruptive editors and repeat offenders may be suspended from the wiki. Please respect these suspensions, do not attempt to evade suspensions, and do not bait users who have been suspended on the wiki, discord, or through any other means. A suspension will always be explained by the issuing administrator. These suspensions can last up to a month, at the discretion of the issuing administrator.
@@ -55,7 +55,7 @@ Disruptive editors and repeat offenders may be suspended from the wiki. Please r
 Extremely disruptive editors and serial offenders may be banned from the Wiki. Do not attempt to evade bans. Like suspensions, a ban will always be explained by the issuing administrator. A ban may be appealed to the community, depending on the nature of the ban. Bans which are made because of a breach of legal policies will not be appealed.
 
 ==Legal==
-These are issues with potential legal implcations. Outside of these policies, the wiki will not practice censorship.
+These are issues with potential legal implications. Outside of these policies, the wiki will not practice censorship.
 
 ===Child protection===
 Editors who advocate or attempt to pursue or facilitate inappropriate adult-child relationships are to be banned.
