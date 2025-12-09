@@ -6,9 +6,9 @@ A trait - also called a personality in the game code - is a suplementary ability
 |-
 |[[Athletic]].png||[[Athletic]]||Increases walking speed by 25%.||Bronze||Utility||Speed||
 |-
-|[[Big_Bladder]].png||[[Big_Bladder]]||Toilet stat decreases more slowly.||Silver||Any||Needs||
+|[[Big_Bladder]].png||[[Big Bladder]]||Toilet stat decreases more slowly.||Silver||Any||Needs||
 |-
-|[[Big_Eater]].png||[[Big_Eater]]||Nutrition stat decreases more slowly.||Silver||Any||Needs||
+|[[Big_Eater]].png||[[Big Eater]]||Nutrition stat decreases more slowly.||Silver||Any||Needs||
 |-
 |[[Bigwig]].png||[[Bigwig]]||50% faster lawsuit processing.||||Production||Speed||Lawyer
 |-
@@ -16,7 +16,7 @@ A trait - also called a personality in the game code - is a suplementary ability
 |-
 |[[Bulldozer]].png||[[Bulldozer]].png||Unknown||||||||
 |-
-|[[Caffeine Connoisseur]].png||[[Caffeine Connoisseur]]||50% work speed increase for 2 days after drinking coffee.||Silver||Production||Speed||
+|[[Caffeine_Connoisseur]].png||[[Caffeine Connoisseur]]||50% work speed increase for 2 days after drinking coffee.||Silver||Production||Speed||
 |-
 |[[Careful]].png||[[Careful]]||The machine that is being worked on breaks down more slowly.||Bronze||Production||||
 |-
@@ -24,15 +24,15 @@ A trait - also called a personality in the game code - is a suplementary ability
 |-
 |[[Cheap]].png||[[Cheap]]||Just cheap. No strings attached.||Bronze||Any||Money||
 |-
-|[[Cool_Cat]].png||[[Cool_Cat]]||Counters heat!||Gold||||Comfort||
+|[[Cool_Cat]].png||[[Cool Cat]]||Counters heat!||Gold||||Comfort||
 |-
 |[[Courageous]].png||[[Courageous]]||Not afraid of mobsters!||Silver||Any||Risk Management||
 |-
-|[[Deadline_Driven]].png||[[Deadline_Driven]]||25% increased task speed on Saturdays and Sundays.||Bronze||Production||Speed||
+|[[Deadline_Driven]].png||[[Deadline Driven]]||25% increased task speed on Saturdays and Sundays.||Bronze||Production||Speed||
 |-
 |[[Frugal]].png||[[Frugal]]||Uses only 50% of resources when working.||Bronze||Production||||
 |-
-|[[Heat_Tolerant]].png||[[Heat_Tolerant]]||Not bothered by heat.||Silver||Any||Comfort||
+|[[Heat_Tolerant]].png||[[Heat Tolerant]]||Not bothered by heat.||Silver||Any||Comfort||
 |-
 |[[Highlander]].png||[[Highlander]]||The higher the workplace, the faster the work. 3% work speed increase per floor, capped at a max of 50%.||Gold||Production||Speed||
 |-
@@ -42,25 +42,25 @@ A trait - also called a personality in the game code - is a suplementary ability
 |-
 |[[Methodical]].png||[[Methodical]]||Takes 50% longer to complete a story, but adds one Quality Star.||Silver||Reporter||Quality Stars, Speed||
 |-
-|[[Monday_Blues]].png||[[Monday_Blues]]||Task speed reduced by 75% on Mondays but works for less money...||Bronze||Production||Speed||
+|[[Monday_Blues]].png||[[Monday Blues]]||Task speed reduced by 75% on Mondays but works for less money...||Bronze||Production||Speed||
 |-
 |[[Motivator]].png||[[Motivator]]||Employees in the same room that share the same skill get 10% of this employee's XP.||Silver||||Experience||
 |-
 |[[Musical]].png||[[Musical]]||Likes to sing and counters noise!||Gold||||Comfort||
 |-
-|[[Natural_Climber]].png||[[Natural_Climber]]||50% faster on stairs.||Silver||Utility||Speed||
+|[[Natural_Climber]].png||[[Natural Climber]]||50% faster on stairs.||Silver||Utility||Speed||
 |-
-|[[Natural_Coordinator]].png||[[Natural_Coordinator]]||Immediately unlocks the next story file within the news. Note that once this reporter is assigned, it cannot be undone.||Gold||Reporter||Story File Unlock||
+|[[Natural_Coordinator]].png||[[Natural Coordinator]]||Immediately unlocks the next story file within the news. Note that once this reporter is assigned, it cannot be undone.||Gold||Reporter||Story File Unlock||
 |-
-|[[Natural_Timekeeper]].png||[[Natural_Timekeeper]]||While reporting, speeds up all reporters that are reporting in the same item by 50%.||Gold||Reporter||Speed||
+|[[Natural_Timekeeper]].png||[[Natural Timekeeper]]||While reporting, speeds up all reporters that are reporting in the same item by 50%.||Gold||Reporter||Speed||
 |-
 |[[Nocturnal]].png||[[Nocturnal]]||Unaffected by darkness.||Bronze||Any||Comfort||
 |-
-|[[Noise_Tolerant]].png||[[Noise_Tolerant]]||Not bothered by noise.||Silver||Any||Comfort||
+|[[Noise_Tolerant]].png||[[Noise Tolerant]]||Not bothered by noise.||Silver||Any||Comfort||
 |-
 |[[Noisy]].png||[[Noisy]]||Works 35% faster but is very obnoxious and loud! Drowns out noise, granting immunity to all noise discomfort.||Gold||Production||Speed, Comfort||
 |-
-|[[Office_Clown]].png||[[Office_Clown]]||Jokes around, making employees nearby more comfortable.||Gold||||Comfort||
+|[[Office_Clown]].png||[[Office Clown]]||Jokes around, making employees nearby more comfortable.||Gold||||Comfort||
 |-
 |[[Orderly]].png||[[Orderly]]||Produces 50% less trash.||Bronze||Production||Comfort||
 |-
@@ -68,17 +68,17 @@ A trait - also called a personality in the game code - is a suplementary ability
 |-
 |[[Psychic]].png||[[Psychic]]||25% chance of adding a Forecast tag to Horoscopes. 25% chance of unlocking the next Story File within news.||Bronze||Reporter||Tags, Story File Unlock||Entertainment
 |-
-|[[Quick_Starter]].png||[[Quick_Starter]]||Speed increased by 75% on Mondays.||Silver||Production||Speed||
+|[[Quick_Starter]].png||[[Quick Starter]]||Speed increased by 75% on Mondays.||Silver||Production||Speed||
 |-
-|[[Quick_Study]].png||[[Quick_Study]]||Gains experience 50% faster.||Silver||Any||Experience||
+|[[Quick_Study]].png||[[Quick Study]]||Gains experience 50% faster.||Silver||Any||Experience||
 |-
 |[[Resilient]].png||[[Resilient]]||Concentration recovers faster.||Bronze||Any||Comfort||
 |-
 |[[Sloth]].png||[[Sloth]]||Extremely slow but extremely cheap...||Bronze||||Speed, Money||
 |-
-|[[Slow_Walker]].png||[[Slow_Walker]]||Walking speed decreased by 25% but works for less money.||Bronze||||Speed||
+|[[Slow_Walker]].png||[[Slow Walker]]||Walking speed decreased by 25% but works for less money.||Bronze||||Speed||
 |-
-|[[Smell_Tolerant]].png||[[Smell_Tolerant]]||Not bothered by smell.||Silver||Any||Comfort||
+|[[Smell_Tolerant]].png||[[Smell Tolerant]]||Not bothered by smell.||Silver||Any||Comfort||
 |-
 |[[Smelly]].png||[[Smelly]]||Works 35% faster but has low personal hygiene and smells. Yikes! It acts as a barrier however, granting immunity to all smell discomfort.||Gold||Production||Speed, Comfort||
 |-
@@ -86,11 +86,11 @@ A trait - also called a personality in the game code - is a suplementary ability
 |-
 |[[Tolerant]].png||[[Tolerant]]||Not bothered by anything.||Gold||||Comfort||
 |-
-|[[Trash_Tolerant]].png||[[Trash_Tolerant]]||Not bothered by trash.||Silver||Any||Comfort||
+|[[Trash_Tolerant]].png||[[Trash Tolerant]]||Not bothered by trash.||Silver||Any||Comfort||
 |-
 |[[Versatile]].png||[[Versatile]]||Gains 50% experience on unused skills.||Silver||Any||Experience||
 |-
-|[[Yearly_Peaker]].png||[[Yearly_Peaker]]||Gains a 2% speed increase on tasks every month, but resets in January.||Silver||Reporter, Production||Speed||
+|[[Yearly_Peaker]].png||[[Yearly Peaker]]||Gains a 2% speed increase on tasks every month, but resets in January.||Silver||Reporter, Production||Speed||
 |-
 |}
 
@@ -98,9 +98,9 @@ A trait - also called a personality in the game code - is a suplementary ability
 {| class="wikitable"
 !Image !!Trait Name !!Description !!Quality !!Job Category !!Tags !!Compatible Skills
 |-
-|[[Ad_On]].png||[[Ad_On]]||Adds $250 when used in an Ad.||Gold||Reporter, Production||Money||Sales, Illustrator
+|[[Ad_On]].png||[[Ad On]]||Adds $250 when used in an Ad.||Gold||Reporter, Production||Money||Sales, Illustrator
 |-
-|[[Anointed_Pen]].png||[[Anointed_Pen]]||Experience gained from working on Obituaries increased by 10%.||Silver||Reporter||Experience||Society
+|[[Anointed_Pen]].png||[[Anointed Pen]]||Experience gained from working on Obituaries increased by 10%.||Silver||Reporter||Experience||Society
 |-
 |[[Astrologist]].png||[[Astrologist]]||Task speed increased by 25% on Horoscopes but has a 50% chance of adding a Lie.||Silver||Reporter||Speed, Tags||Entertainment
 |-
@@ -108,105 +108,105 @@ A trait - also called a personality in the game code - is a suplementary ability
 |-
 |[[Climber]].png||[[Climber]]||50% faster on stairs.||Silver||Utility||Speed||Cooking, Repairing, Transporting, Security, Sweeping, Washing
 |-
-|[[Clutch_Performer]].png||[[Clutch_Performer]]||Adds two Quality Stars if a news item's expiry time is less than one day.||Bronze||Reporter||Quality Stars||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Clutch_Performer]].png||[[Clutch Performer]]||Adds two Quality Stars if a news item's expiry time is less than one day.||Bronze||Reporter||Quality Stars||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Continental_Connector]].png||[[Continental_Connector]]||Increases research speed by 20% for all foreign news.||Gold||Production||Speed||Telegrapher
+|[[Continental_Connector]].png||[[Continental Connector]]||Increases research speed by 20% for all foreign news.||Gold||Production||Speed||Telegrapher
 |-
 |[[Coordinator]].png||[[Coordinator]]||Immediately unlocks the next story file within the news. Note that once this reporter is assigned, it cannot be undone.||Gold||Reporter||Story File Unlock||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Corner_Cutter]].png||[[Corner_Cutter]]||50% off reporting time but adds Sloppy Reporting.||Bronze||Reporter||Speed, Tags||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Corner_Cutter]].png||[[Corner Cutter]]||50% off reporting time but adds Sloppy Reporting.||Bronze||Reporter||Speed, Tags||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Crime_Specialist]].png||[[Crime_Specialist]]||50% faster reporting times for Crime stories.||Silver||Reporter||Speed||Crime
+|[[Crime_Specialist]].png||[[Crime Specialist]]||50% faster reporting times for Crime stories.||Silver||Reporter||Speed||Crime
 |-
 |[[Digger]].png||[[Digger]]||50% chance of adding a Scandal tag when used on a Story File containing a Dirt tag.||Silver||Reporter||Tags||Politics, Sports, Photographer, Illustrator, Cartographer
 |-
 |[[Diplomat]].png||[[Diplomat]]||Opens up Diplomatic Route trait in news.||Bronze||Reporter||Trait Lock||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Distinguished_Guest]].png||[[Distinguished_Guest]]||50% chance of adding an Exclusive tag when used on a Story File containing an Unveiling tag.||Silver||Reporter||Tags||Entertainment, Economy
+|[[Distinguished_Guest]].png||[[Distinguished Guest]]||50% chance of adding an Exclusive tag when used on a Story File containing an Unveiling tag.||Silver||Reporter||Tags||Entertainment, Economy
 |-
-|[[Double_Down]].png||[[Double_Down]]||Double the time but double the money!||Silver||Reporter||Money, Speed||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Double_Down]].png||[[Double Down]]||Double the time but double the money!||Silver||Reporter||Money, Speed||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
 |[[Economist]].png||[[Economist]]||50% faster reporting times for Economy stories.||Silver||Reporter||Speed||Economy
 |-
-|[[Eleventh_Hour]].png||[[Eleventh_Hour]]||If an item is at least 50% done on the last hour of Sunday, it will be complete before the end of Sunday.||Bronze||Production||Speed||Assembling
+|[[Eleventh_Hour]].png||[[Eleventh Hour]]||If an item is at least 50% done on the last hour of Sunday, it will be complete before the end of Sunday.||Bronze||Production||Speed||Assembling
 |-
-|[[Fast_Sweeper]].png||[[Fast_Sweeper]]||Sweeps a unit of trash twice as fast.||Bronze||Utility||Speed||Sweeping
+|[[Fast_Sweeper]].png||[[Fast Sweeper]]||Sweeps a unit of trash twice as fast.||Bronze||Utility||Speed||Sweeping
 |-
 |[[Finisher]].png||[[Finisher]]||Gain one Quality Star when assigned to a multi-story file item and all other story files are done.||Bronze||Reporter||Quality Stars||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[First_Aid]].png||[[First_Aid]]||Negates Injury risks on news.||Bronze||Reporter||Risk Management||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[First_Aid]].png||[[First Aid]]||Negates Injury risks on news.||Bronze||Reporter||Risk Management||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Full_House]].png||[[Full_House]]||50% speed increase when there are 4 or more items at the input.||Bronze||Production||Speed||
+|[[Full_House]].png||[[Full House]]||50% speed increase when there are 4 or more items at the input.||Bronze||Production||Speed||
 |-
 |[[Gumshoe]].png||[[Gumshoe]]||Adds a Quality Star when the Story File contains an Investigative tag.||Bronze||Reporter||Quality Stars||Crime, Society, Photographer, Illustrator, Cartographer
 |-
 |[[Harmonize]].png||[[Harmonize]]||Doubles the reporting time and adds one Quality Star for bronze tags. Two Stars for silver tags and three Stars for gold tags.||Silver||Reporter||Quality Stars, Speed||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[In_the_Loop]].png||[[In_the_Loop]]||Adds a Quality Star when the Story File contains an Statement tag.||Bronze||Reporter||Quality Stars||Crime, Politics
+|[[In_the_Loop]].png||[[In the Loop]]||Adds a Quality Star when the Story File contains an Statement tag.||Bronze||Reporter||Quality Stars||Crime, Politics
 |-
 |[[Informant]].png||[[Informant]]||Negates Police Fines on news.||Bronze||Reporter||Risk Management||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
 |[[Informationalist]].png||[[Informationalist]]||Always skews Story File perception to Informational but takes 50% longer if it wasn't already informational.||Bronze||Reporter||Perception||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Legal_Advisor]].png||[[Legal_Advisor]]||Negates Lawsuit risks on news items.||Bronze||Reporter||Risk Management||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Legal_Advisor]].png||[[Legal Advisor]]||Negates Lawsuit risks on news items.||Bronze||Reporter||Risk Management||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Line_Worker]].png||[[Line_Worker]]||Works 25% faster when the next item comes within 2 hours of the previous one.||Silver||Production||Speed||Assembling, Editor, Engraver, Darkroom Technician, Photo Processor, Typesetting
+|[[Line_Worker]].png||[[Line Worker]]||Works 25% faster when the next item comes within 2 hours of the previous one.||Silver||Production||Speed||Assembling, Editor, Engraver, Darkroom Technician, Photo Processor, Typesetting
 |-
-|[[Locker_Room_Insider]].png||[[Locker_Room_Insider]]||50% chance of adding an Insider tag to Baseball Results.||Silver||Reporter||Tags||Sports
+|[[Locker_Room_Insider]].png||[[Locker Room Insider]]||50% chance of adding an Insider tag to Baseball Results.||Silver||Reporter||Tags||Sports
 |-
-|[[Market_Maven]].png||[[Market_Maven]]||Adds one Quality Star to a Stock Index.||Silver||Reporter||Quality Stars||Economy
+|[[Market_Maven]].png||[[Market Maven]]||Adds one Quality Star to a Stock Index.||Silver||Reporter||Quality Stars||Economy
 |-
-|[[Military_Training]].png||[[Military_Training]]||Unknown||||||||
+|[[Military_Training]].png||[[Military Training]]||Unknown||||||||
 |-
-|[[Mountain_of_a_Mole]].png||[[Mountain_of_a_Mole]]||Adds a Quality Star and doubles the reporting time on a news item that contains only a single Story File.||Silver||Reporter||Quality Stars, Speed||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Mountain_of_a_Mole]].png||[[Mountain of a Mole]]||Adds a Quality Star and doubles the reporting time on a news item that contains only a single Story File.||Silver||Reporter||Quality Stars, Speed||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Number_Cruncher]].png||[[Number_Cruncher]]||Adds a Quality Star when the Story File contains a Statistics tag.||Bronze||Reporter||Quality Stars||Economy, Sports, Photographer, Illustrator, Cartographer
+|[[Number_Cruncher]].png||[[Number Cruncher]]||Adds a Quality Star when the Story File contains a Statistics tag.||Bronze||Reporter||Quality Stars||Economy, Sports, Photographer, Illustrator, Cartographer
 |-
 |[[Overtime]].png||[[Overtime]]||25% task speed increase during weekends.||Bronze||Production||Speed||Assembling, Editor, Engraver, Darkroom Technician, Photo Processor, Typesetting
 |-
-|[[Perception_Inverter]].png||[[Perception_Inverter]]||Inverts the Story File's perception if it has any.||Bronze||Reporter||Perception||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Perception_Inverter]].png||[[Perception Inverter]]||Inverts the Story File's perception if it has any.||Bronze||Reporter||Perception||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Perfect_Angle]].png||[[Perfect_Angle]]||50% chance of taking the perfect shot and adding one Quality Star to a photo.||Bronze||Reporter||Quality Stars||Photographer
+|[[Perfect_Angle]].png||[[Perfect Angle]]||50% chance of taking the perfect shot and adding one Quality Star to a photo.||Bronze||Reporter||Quality Stars||Photographer
 |-
-|[[Policy_Hawk]].png||[[Policy_Hawk]]||Adds one Quality Star to a Legislative Report.||Silver||Reporter||Quality Stars||Politics
+|[[Policy_Hawk]].png||[[Policy Hawk]]||Adds one Quality Star to a Legislative Report.||Silver||Reporter||Quality Stars||Politics
 |-
-|[[Politics_Insider]].png||[[Politics_Insider]]||50% faster reporting times for Politics stories.||Silver||Reporter||Speed||Politics
+|[[Politics_Insider]].png||[[Politics Insider]]||50% faster reporting times for Politics stories.||Silver||Reporter||Speed||Politics
 |-
 |[[Polyglot]].png||[[Polyglot]]||Opens up Language Barrier trait in news.||Bronze||Reporter||Trait Lock||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Power_Broker]].png||[[Power_Broker]]||Adds 12 hours of reporting time and an influence point to Politics or Economy items.||Silver||Reporter||Speed, Influence Points||Economy, Politics
+|[[Power_Broker]].png||[[Power Broker]]||Adds 12 hours of reporting time and an influence point to Politics or Economy items.||Silver||Reporter||Speed, Influence Points||Economy, Politics
 |-
 |[[Powerlifting]].png||[[Powerlifting]]||The ability to carry one extra crate.||Silver||Utility||Speed||Transporting
 |-
-|[[Press_Agent]].png||[[Press_Agent]]||Adds a Quality Star when the Story File contains a Fame tag.||Bronze||Reporter||Quality Stars||Entertainment, Politics
+|[[Press_Agent]].png||[[Press Agent]]||Adds a Quality Star when the Story File contains a Fame tag.||Bronze||Reporter||Quality Stars||Entertainment, Politics
 |-
-|[[Prime_Pencil]].png||[[Prime_Pencil]]||First draft of an illustration or map every week is completed within one hour.||Silver||Reporter||Speed||Illustrator, Cartographer
+|[[Prime_Pencil]].png||[[Prime Pencil]]||First draft of an illustration or map every week is completed within one hour.||Silver||Reporter||Speed||Illustrator, Cartographer
 |-
-|[[Professor_of_the_Arts]].png||[[Professor_of_the_Arts]]||50% faster reporting times for Entertainment stories.||Silver||Reporter||Speed||Entertainment
+|[[Professor_of_the_Arts]].png||[[Professor of the Arts]]||50% faster reporting times for Entertainment stories.||Silver||Reporter||Speed||Entertainment
 |-
-|[[Quick_Cleaner]].png||[[Quick_Cleaner]]||Cleans toilets 50% faster.||Silver||Utility||Speed||Washing
+|[[Quick_Cleaner]].png||[[Quick Cleaner]]||Cleans toilets 50% faster.||Silver||Utility||Speed||Washing
 |-
-|[[Rapid_Repair]].png||[[Rapid_Repair]]||Repairs are 50% faster.||Silver||Utility||Speed||Repairing
+|[[Rapid_Repair]].png||[[Rapid Repair]]||Repairs are 50% faster.||Silver||Utility||Speed||Repairing
 |-
-|[[Second_Fiddle]].png||[[Second_Fiddle]]||Grants one Quality Star when assigned to the second Story File within an item.||Bronze||Reporter||Quality Stars||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Second_Fiddle]].png||[[Second Fiddle]]||Grants one Quality Star when assigned to the second Story File within an item.||Bronze||Reporter||Quality Stars||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
 |[[Sensationalist]].png||[[Sensationalist]]||Always skews Story File perception to Sensational but takes 50% longer if it wasn't already sensational.||Bronze||Reporter||Perception||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Sharp_Pen]].png||[[Sharp_Pen]]||Adds a Quality Star when the story file contains a Review tag.||Bronze||Reporter||Quality Stars||Entertainment, Sports
+|[[Sharp_Pen]].png||[[Sharp Pen]]||Adds a Quality Star when the story file contains a Review tag.||Bronze||Reporter||Quality Stars||Entertainment, Sports
 |-
 |[[Skillful]].png||[[Skillful]]||Adds a Quality Star for every maximum-leveled skill without buffs.||Gold||Reporter||Quality Stars||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
 |[[Sociologist]].png||[[Sociologist]]||50% faster reporting times for Society stories.||Silver||Reporter||Speed||Society
 |-
-|[[Spin_Doctor]].png||[[Spin_Doctor]]||Negates Boycott and Outrage risks on news.||Bronze||Reporter||Risk Management||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Spin_Doctor]].png||[[Spin Doctor]]||Negates Boycott and Outrage risks on news.||Bronze||Reporter||Risk Management||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Sports_Expert]].png||[[Sports_Expert]]||50% faster reporting times for Sports stories.||Silver||Reporter||Speed||Sports
+|[[Sports_Expert]].png||[[Sports Expert]]||50% faster reporting times for Sports stories.||Silver||Reporter||Speed||Sports
 |-
 |[[Teacher]].png||[[Teacher]]||Adds a Quality Star when the story file contains an Educational tag.||Silver||Reporter||Quality Stars||Economy, Society, Photographer, Illustrator, Cartographer
 |-
-|[[Team_Player]].png||[[Team_Player]]||For every reporter that is working simultaneously on the same item, six hours get subtracted from this reporter's finishing time.||Bronze||Reporter||Speed||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Team_Player]].png||[[Team Player]]||For every reporter that is working simultaneously on the same item, six hours get subtracted from this reporter's finishing time.||Bronze||Reporter||Speed||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
-|[[Third_Fiddle]].png||[[Third_Fiddle]]||Grants one Quality Star when assigned to the third Story File within an item.||Bronze||Reporter||Quality Stars||Crime, Economy, Entertainment, Politics, Society, Sports
+|[[Third_Fiddle]].png||[[Third Fiddle]]||Grants one Quality Star when assigned to the third Story File within an item.||Bronze||Reporter||Quality Stars||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
 |[[Timekeeper]].png||[[Timekeeper]]||While reporting, speeds up all reporters that are reporting in the same item by 50%.||Gold||Reporter||Speed||Crime, Economy, Entertainment, Politics, Society, Sports
 |-
