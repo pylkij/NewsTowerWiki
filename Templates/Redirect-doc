@@ -3,16 +3,16 @@ This is the redirected template.
 
 ==Syntax==
 <code><nowiki><noinclude>
-{{Redirect|Page}}
+{{Redirect|Page=Origin}}
 </noinclude></nowiki></code>
 
 ==Samples==
 <code><nowiki><noinclude>
-{{Redirect|Research}}
+{{Redirect|Page=Research}}
 </noinclude></nowiki></code>
 
 results in:
 
-{{Redirect|Research}}
+{{Redirect|Page=Research}}
 
 <includeonly>[[Category:Issues</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
