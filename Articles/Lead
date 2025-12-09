@@ -1,0 +1,21 @@
+==Overview==
+Leads are how many [[story|stories]] there are for your [[telegrapher]]s to uncover in a [[week]].
+
+==Factors==
+The factors which determine how many leads will show up in a given [[week]] are:
+*How much historical content was made for that specific week
+*The save file's progression
+*Which [[district]] and/or [[agenda]] quest has been selected
+*How many [[telegrapher]]s are unlocked
+**[[European telegrapher]]s also play a role in this calculation
+
+24 leads is the median once progression reaches a certain point and what the system likes to work towards.
+
+==Tips and strategies==
+{{Subjective}}
+This is where subjective - but still neutral - analysis of the item can go. Maybe suggest a way in which the item is best used or placed.
+
+==Changelog==
+
+{{MechanicNavbox}}
+[[Category:Mechanics]]
