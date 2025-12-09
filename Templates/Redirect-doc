@@ -1,0 +1,18 @@
+==Descritpion==
+This is the redirected template.
+
+==Syntax==
+<code><nowiki><noinclude>
+{{Redirect|Page}}
+</noinclude></nowiki></code>
+
+==Samples==
+<code><nowiki><noinclude>
+{{Redirect|Research}}
+</noinclude></nowiki></code>
+
+results in:
+
+{{Redirect|Research}}
+
+<includeonly>[[Category:Issues</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
