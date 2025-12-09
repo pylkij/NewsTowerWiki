@@ -1,0 +1,10 @@
+==Description==
+This template allows you to add the "subjective" tag to an article or article section.
+
+==Syntax==
+<code><nowiki>{{subjective}}</nowiki></code>
+
+==Sample==
+{{subjective}}
+
+<includeonly>[[Category:Templates|{{PAGENAME}}]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
