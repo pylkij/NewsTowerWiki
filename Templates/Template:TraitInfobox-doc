@@ -8,9 +8,11 @@ This is an infobox to add to any article about a trait.
 |image=
 |caption=
 
-|Tier=
+|Quality=
 |Trainable=
 |Cost=
+|Tags=
+|Compatible skills=
 }}
 </nowiki></code>
 
@@ -19,11 +21,13 @@ This is an infobox to add to any article about a trait.
 {{TraitInfobox
 |title=Line Worker
 |image=[[lineworker.png]]
-|caption=25% faster production if the next item arrives within 2 hours of the previous one
+|caption=Works 25% faster when the next item comes within 2 hours of the previous one.
 
-|Tier=2
+|Quality=Silver
 |Trainable=Yes
 |Cost=$5000
+|Tags=Speed
+|Compatible skills=Assembling, Editor, Engraver, Darkroom Technician, Photo Processor, Typesetting
 }}
 </nowiki></code>
 
@@ -31,11 +35,12 @@ results in:
 {{TraitInfobox
 |title=Line Worker
 |image=[[lineworker.png]]
-|caption=25% faster production if the next item arrives within 2 hours of the previous one
+|caption=Works 25% faster when the next item comes within 2 hours of the previous one.
 
-|Tier=2
+|Quality=Silver
 |Trainable=Yes
 |Cost=$5000
+|Tags=Speed
+|Compatible skills=Assembling, Editor, Engraver, Darkroom Technician, Photo Processor, Typesetting
 }}
-
 <includeonly>[[Category:Infoboxes]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
