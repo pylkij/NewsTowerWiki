@@ -1,4 +1,7 @@
-{{ObjectInfobox
+{{Needs work|Problem=Information accuracy}}
+{{Needs work|Problem=Stub}}
+
+{{ObjectInfobox_v2
 |title=Illustrator desk
 |image=[[Illustrator_Desk.png]]
 |caption=creates draft graphics
@@ -10,9 +13,16 @@
 |Gives heat=No
 |Gives smell=No
 |Production time=Variable
+|Inputs=None
+|Outputs=[[Reports.png]]
 
 |Location=[[Photo Academy]]
 |Influence Points=16
+
+|Resource consumption=No
+|Trash production=Yes
+|Maximum purchasable=Infinite
+|Object size=5
 }}
 
 ==Overview==
@@ -22,7 +32,13 @@ The Illustrator desk is a [[reporting]] station which creates draft graphics. It
 The Illustrator desk is available at the [[Photo Academy]], located in [[Brooklyn]]. It costs 16 [[Influence Point]]s to unlock, and has no purchase pre-requisits once the location has been unlocked.
 
 ==Tips and strategies==
+{{Subjective}}
 
 ==Changelog==
 
 <noinclude>{{ObjectNavbox}}</noinclude>
+
+[[Category:Objects]]
+[[Category:Reporting Stations]]
+[[Category:Unlockables]]
+
