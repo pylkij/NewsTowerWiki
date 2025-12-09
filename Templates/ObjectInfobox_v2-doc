@@ -1,0 +1,79 @@
+==Description==
+This is an infobox to add to any article about an object. Objects include: stations, decorative items, structural items etc.
+
+==Syntatx==
+<code><nowiki>{{ObjectInfobox_v2
+|title=
+|image=
+|caption=
+
+|Cost=
+|Requires power=
+|Durability=
+|Gives noise=
+|Gives heat=
+|Gives smell=
+|Production time=
+|Inputs=
+|Outputs=
+
+|Location=
+|Influence Points=
+
+|Resource consumption=
+|Trash production=
+|Maximum purchasable=
+|Object size=
+}}</nowiki></code>
+
+==Samples==
+<code><nowiki>{{ObjectInfobox_v2
+|title=Sample
+|image=[[test.png]]
+|caption=an infobox for an object
+
+|Cost=$500
+|Requires power=1
+|Durability=Yes
+|Gives noise=Yes
+|Gives heat=Yes
+|Gives smell=No
+|Production time=12 hours
+|Inputs=[[Report]]s
+|Outputs=[[Slug]]s
+
+|Location=[[Some location]]
+|Influence Points=12
+
+|Resource consumption=None
+|Trash production=Yes
+|Maximum purchasable=Infinite
+|Object size=7
+}}</nowiki></code>
+
+results in:
+{{ObjectInfobox_v2
+|title=Sample
+|image=[[test.png]]
+|caption=an infobox for an object
+
+|Cost=$500
+|Requires power=1
+|Durability=Yes
+|Gives noise=Yes
+|Gives heat=Yes
+|Gives smell=No
+|Production time=12 hours
+|Inputs=[[Report]]s
+|Outputs=[[Slug]]s
+
+|Location=[[Some location]]
+|Influence Points=12
+
+|Resource consumption=None
+|Trash production=Yes
+|Maximum purchasable=Infinite
+|Object size=7
+}}
+
+<includeonly>[[Category:Infoboxes]]</includeonly><noinclude>[[Category:Template documentation|{{PAGENAME}}]]</noinclude>
