@@ -1,8 +1,8 @@
 <includeonly>{{#invoke:Infobox|main
 |kind=skill
-|sep=,
+|sep=;
 |image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
 |sections=General Information
-|General Information=Quality, Trainable, Cost, Tags, Compatible Skills
+|General Information=Quality; Trainable; Cost; Tags; Compatible Skills
 }}</includeonly>
 <noinclude>{{documentation}}</noinclude>
