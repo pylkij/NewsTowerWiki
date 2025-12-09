@@ -1,7 +1,7 @@
 A trait - also called a personality in the game code - is a suplementary ability which can serve to aid or harm an employee's ability to preform their job. Traits can be natural (set at [[hiring]]) or learned through the [[training]] menu. Learned traits may be changed at any time at the cost of removing any current learned trait. Natural traits can not be changed and will result in higher wages comprared to a traitless employee of the same [[skill]] level.
 
 ==Natural traits==
-{| class="wikitable"
+{| class="wikitable sortable"
 !Image !!Trait Name !!Description !!Quality !!Job Category !!Tags !!Compatible Skills
 |-
 |[[Athletic]].png||[[Athletic]]||Increases walking speed by 25%.||Bronze||Utility||Speed||
@@ -95,7 +95,7 @@ A trait - also called a personality in the game code - is a suplementary ability
 |}
 
 ==Trainable traits==
-{| class="wikitable"
+{| class="wikitable sortable"
 !Image !!Trait Name !!Description !!Quality !!Job Category !!Tags !!Compatible Skills
 |-
 |[[Ad_On]].png||[[Ad On]]||Adds $250 when used in an Ad.||Gold||Reporter, Production||Money||Sales, Illustrator
@@ -217,3 +217,7 @@ A trait - also called a personality in the game code - is a suplementary ability
 |[[Wayfinder]].png||[[Wayfinder]]||Cartographer gains one Quality Star per connected Story File.||Bronze||Reporter||Quality Stars||Cartographer
 |-
 |}
+
+==Changelog==
+
+[[Category:Traits]]
