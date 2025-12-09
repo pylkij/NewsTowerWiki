@@ -1,7 +1,7 @@
-{{ObjectInfobox
+{{ObjectInfobox_v2
 |title=Typesetting machine
 |image=[[Linotype.png]]
-|caption=converts reports into slugs
+|caption=coverts reports into slugs
 
 |Cost=$1000
 |Requires power=1
@@ -10,9 +10,16 @@
 |Gives heat=Yes
 |Gives smell=No
 |Production time=12 hours
+|Inputs=[[Reports.png]]
+|Outputs=[[Slugs.png]]
 
 |Location=[[Caldwell Linotype Factory]]
 |Influence Points=24
+
+|Resource consumption=No
+|Trash production=Yes
+|Maximum purchasable=Infinite
+|Object size=7
 }}
 
 ==Overview==
@@ -30,4 +37,6 @@ The typesetting machine is faster and has a smaller footprint compared to the [[
 ==Changelog==
 
 <noinclude>{{ObjectNavbox}}</noinclude>
-
+[[Category:Objects]]
+[[Category:Production Stations]]
+[[Category:Unlockables]]
