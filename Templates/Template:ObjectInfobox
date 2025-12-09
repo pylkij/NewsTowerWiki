@@ -2,8 +2,11 @@
 |kind=object
 |sep=,
 |image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
-|sections=General Info, Unlock, Advanced Data
-|General Info=Cost, Requires power, Durability, Gives noise, Gives heat, Gives smell, Production time, Inputs, Outputs
+|sections=General Info, General Info2, Unlock, Advanced Data
+|General Info=Inputs, Outputs
+|General Info_columns=2
+|General Info2=Cost, Requires power, Durability, Gives noise, Gives heat, Gives smell, Production time
+|General Info2_nolabel=yes
 |Unlock=Location, Influence Points
 |Advanced Data=Resource consumption, Trash production, Maximum purchasable, Object size
 |Advanced Data_collapsible=Yes
