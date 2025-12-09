@@ -3,6 +3,6 @@
 |sep=,
 |image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
 |sections=General Information
-|General Information=Tier, Trainable, Cost
+|General Information=Quality, Trainable, Cost, Tags, Compatible Skills
 }}</includeonly>
 <noinclude>{{documentation}}</noinclude>
