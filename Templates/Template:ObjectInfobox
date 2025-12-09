@@ -2,9 +2,11 @@
 |kind=object
 |sep=,
 |image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
-|sections=General Info, Unlock
-|General Info=Cost, Requires power, Durability, Gives noise, Gives heat, Gives smell, Production time
-|Stats=Location, Influence Points
+|sections=General Info, Unlock, Advanced Data
+|General Info=Cost, Requires power, Durability, Gives noise, Gives heat, Gives smell, Production time, Inputs, Outputs
+|Unlock=Location, Influence Points
+|Advanced Data=Resource consumption, Trash production, Maximum purchasable, Object size
+|Advanced Data_collapsible=Yes
+|Advanced Data_collapsed=Yes
 }}</includeonly>
 <noinclude>{{documentation}}</noinclude>
-
