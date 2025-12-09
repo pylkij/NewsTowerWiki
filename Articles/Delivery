@@ -1,0 +1,18 @@
+==Overview==
+[[Item]]s can be delivered to [[station]]s by [[employee]]s. [[Hauler]]s have bonuses to delivery, and are the only employees who can move [[box]]es.
+
+==Factors==
+Employees of a [[production]] station will choose to deliver their stations output [[production item]]s under certain conditions. Normally, they will never deliver items to a subsequent production station that is not on their [[floor]]. However, they will use [[pneumatic tube]]s to send items to the correct floor for further processing.
+
+[[Reporter]]s will deliver [[report]]s to [[editor desk]]s, [[typesetting desk]]s, and [[typesetting machine]]s. They will prioritize pneumatic tubes if they are faster than [[stair]]s or [[elevator]]s. [[Photographer]]s will deliver [[film]] to [[darkroom]]s. [[Cartographer]]s and [[illustrator]]s will not deliver [[draft graphics]] to [[photo process desk]]s and [[photo editor]]s unless they are on the same floor.
+
+[[Hauler]]s can be assigned to move [[items]] of all types. They will deliver items to other floors, as long as their [[floor asignment]] allows for it.
+
+==Tips and strategies==
+{{Subjective}}
+
+==Changelog==
+
+{{MechanicNavbox}}
+[[Category:Mechanics]]
+[[Category:Items]]
