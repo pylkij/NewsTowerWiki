@@ -1,3 +1,13 @@
+{{MechanicInfobox_tabed
+|Title=Hauling assignment button
+|Images=
+  Specify_Task_Assign_Button_Normal.png:Task,
+  No_Floor_Assigned_Button_Normal.png:Floor,
+
+|Task_caption=This button allows you to specify which items will be move by haulers.
+|Floor_caption=This button allows you to specify which floors a hauler will go to.
+}}
+
 ==Overview==
 [[Item]]s can be delivered to [[station]]s by [[employee]]s. [[Hauler]]s have bonuses to delivery, and are the only employees who can move [[box]]es.
 
