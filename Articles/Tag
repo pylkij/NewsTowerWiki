@@ -1,5 +1,6 @@
 The article for tags
 
+==Story Tags==
 {| class="wikitable sortable"
 !Image !!Tag Name !!Quality !!Found in
 |-
@@ -87,6 +88,11 @@ The article for tags
 |-
 |Story_Tag_Gold_Scandal.png||[[Scandal]]||Gold||Anywhere
 |-
+|}
+
+==Influence, money, and perspective==
+{| class="wikitable sortable"
+!Image !!Tag Name !!Quality !!Found in
 |Influence_Tag_Bronze.png||[[Bronze Influence]]||Bronze||Anywhere
 |-
 |Influence_Tag_Silver.png||[[Silver Influence]]||Silver||Anywhere
@@ -101,6 +107,15 @@ The article for tags
 |-
 |Money_Tag_Gold||[[Gold Money]]||Gold||Ads, Story
 |-
+|Perspective_Arrow_Left.png||[[Informational]]||Perception||Anywhere
+|-
+|Perspective_Arrow_Right.png||[[Sensational]]||Perception||Anywhere
+|-
+|}
+
+==Nags==
+{| class="wikitable sortable"
+!Image !!Tag Name !!Quality !!Found in
 |Lies_Nag.png||[[Lies]]||Nag||Anywhere
 |-
 |Nag_Censorship.png||[[Censorship]]||Nag||Quest
@@ -139,10 +154,11 @@ The article for tags
 |-
 |Unpopular_Nag.png||[[Unpopular]]||Nag||Anywhere
 |-
-|Perspective_Arrow_Left.png||[[Informational]]||Perception||Anywhere
-|-
-|Perspective_Arrow_Right.png||[[Sensational]]||Perception||Anywhere
-|-
+|}
+
+==Quest Tags==
+{| class="wikitable sortable"
+!Image !!Tag Name !!Quality !!Found in
 |Chief_of_Police_Tag.png||[[Chief of Police]]||Quest||
 |-
 |General_Tag.png||[[General]]||Quest||
