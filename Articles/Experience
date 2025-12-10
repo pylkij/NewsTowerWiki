@@ -1,0 +1,23 @@
+{{Needs work|Reason=Stub}}
+{{Needs work|Accuracy}}
+{{MechanicInfobox
+|Title=Skill button
+|Image=Skill_Button_Normal.png
+|Caption=This button opens the employee skill interface
+}}
+
+==Overview==
+[[Employee]]s gain experience in [[skill]]s as they preform tasks related to those skills.
+
+The amount of experience required for each level is not shown in game, but a percentage of completion towards the next skill level can be seen by hovering over the relevant skill icon in the employee interface.
+
+==Factors==
+Experience gain is based on the time spent doing the task.
+
+==Tips and strategies==
+{{Subjective}}
+
+==Changelog==
+
+{{MechanicNavbox}}
+[[Category:Mechanics]]
